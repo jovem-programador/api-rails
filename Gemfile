@@ -45,3 +45,7 @@ group :development do
   # gem "spring"
 end
 
+
+gem "active_model_serializers", "~> 0.10.14"
+
+gem "rack-cors", "~> 2.0"
